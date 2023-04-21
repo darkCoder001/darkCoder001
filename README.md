@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ishank Lalwani</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on [Casting.ai](https://github.com/dream-team-vit/Casting-ai.git)
+- 🔭 I’m currently working on [Expense_Planer](https://github.com/darkCoder001/Expense_Planner.git)
 
 - 🌱 I’m currently learning **Android Development, Java, Machine Learning**
 
