@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Android Development, Java, Machine Learning**
 
-- 💬 Ask me about **Java, Machine Learning**
+- 💬 Ask me about **Java, Machine Learning, Android Development**
 
 - 📫 How to reach me **ishank8005@gmail.com**
 
