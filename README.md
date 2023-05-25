@@ -33,4 +33,5 @@
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darkCoder001&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darkCoder001&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darCoder001&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)      ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=darkCoder001&theme=tokyonight)  
-[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=darkCoder001&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=darkCoder001&theme=tokyonight" alt="darkCoder001" />
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=darkCoder001&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
