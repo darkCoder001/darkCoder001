@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **Android Development, Java, Machine Learning**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **Java, Machine Learning, Android Development**
 
