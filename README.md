@@ -31,6 +31,9 @@
 <h3 align="left">Github Stats:</h3>
 
 <div align="center">
+  <a href="https://github.com/darkCoder001/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=darkCoder001&theme=dracula" alt="GitHub Activity Graph">
+  </a>
   <a href="https://github.com/darkCoder001">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darkCoder001&theme=tokyonight" alt="Profile Details">
   </a>
