@@ -1,9 +1,25 @@
 
+
 <h1 align="center">Hi 👋, I'm Ishank Lalwani</h1>
 <h3 align="center">There is always one more bug to fix!</h3>
 
 
-<div align="center"><img src="https://user-images.githubusercontent.com/119613110/236393111-67308a22-4a13-45a6-abc0-0714ee675b81.gif" width="800" height="300"></div>
+<div align="center">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+</div>
 
 
 
